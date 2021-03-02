@@ -1,3 +1,7 @@
-.have {
+.have-read {
   text-decoration: line-through;
+}
+
+ul  {
+  list-style-type: none;
 }
